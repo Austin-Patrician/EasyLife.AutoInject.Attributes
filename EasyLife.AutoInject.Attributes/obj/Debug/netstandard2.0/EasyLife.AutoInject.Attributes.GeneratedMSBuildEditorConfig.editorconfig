@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = EasyLife.AutoInject.Attributes
+build_property.ProjectDir = F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

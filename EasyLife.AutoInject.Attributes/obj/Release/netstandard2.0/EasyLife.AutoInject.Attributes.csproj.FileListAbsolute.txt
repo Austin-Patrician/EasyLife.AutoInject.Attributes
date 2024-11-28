@@ -1,0 +1,10 @@
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\bin\Release\netstandard2.0\EasyLife.AutoInject.Attributes.deps.json
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\bin\Release\netstandard2.0\EasyLife.AutoInject.Attributes.dll
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\bin\Release\netstandard2.0\EasyLife.AutoInject.Attributes.pdb
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.csproj.AssemblyReference.cache
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.AssemblyInfoInputs.cache
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.AssemblyInfo.cs
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.csproj.CoreCompileInputs.cache
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.dll
+F:\code\Austin\EasyLife.AutoInject.Attributes\EasyLife.AutoInject.Attributes\obj\Release\netstandard2.0\EasyLife.AutoInject.Attributes.pdb
